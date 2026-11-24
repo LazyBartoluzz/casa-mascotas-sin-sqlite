@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contacto_ayuda">Para enviar el comentario se solicitarán datos de SMTP y una contraseña de aplicación. No se almacenan.</string>
+</resources>

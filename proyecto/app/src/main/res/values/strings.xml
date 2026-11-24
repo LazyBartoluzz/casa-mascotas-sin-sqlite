@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Casa Mascotas Los Tomates</string>
+    <string name="mascotas">MASCOTAS</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="perfil">PERFIL</string>
+    <string name="contacto">Contacto</string>
+    <string name="acerca">Acerca De</string>
+    <string name="ultimas">Últimas 5 mascotas</string>
+    <string name="subir">Subir al inicio</string>
+    <string name="me_gusta">Me gusta</string>
+    <string name="comentario">ENVIAR COMENTARIO</string>
+    <string name="configurar_smtp">CONFIGURAR SMTP Y ENVIAR</string>
+    <string name="contacto_ayuda">El comentario se abrirá en tu aplicación de correo.</string>
+</resources>

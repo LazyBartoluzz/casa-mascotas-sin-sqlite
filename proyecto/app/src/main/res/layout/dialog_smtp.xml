@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+        <EditText android:id="@+id/host" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Servidor SMTP" android:text="smtp.gmail.com" android:singleLine="true"/>
+        <EditText android:id="@+id/port" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Puerto (587)" android:inputType="number" android:text="587" android:singleLine="true"/>
+        <EditText android:id="@+id/username" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Correo de la cuenta emisora" android:inputType="textEmailAddress" android:singleLine="true"/>
+        <EditText android:id="@+id/password" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Contraseña de aplicación" android:inputType="textPassword" android:singleLine="true"/>
+        <EditText android:id="@+id/to" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Correo destinatario" android:inputType="textEmailAddress" android:singleLine="true"/>
+    </LinearLayout>
+</ScrollView>
